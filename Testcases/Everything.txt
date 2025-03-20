@@ -1,0 +1,4 @@
+All of them
+yes
+leave
+Prints out the whole map

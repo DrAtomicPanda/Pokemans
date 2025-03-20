@@ -1,0 +1,14 @@
+game
+pokemon
+gen3
+dual
+fairy
+normal
+0ft<2ft
+0lbs<20lbs
+yes
+no
+purple
+leave
+
+This will print out azurill.

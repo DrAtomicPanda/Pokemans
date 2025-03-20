@@ -1,0 +1,10 @@
+1
+bulbasaur
+56
+mankey
+87
+dewgong
+1025
+dragonite
+leave
+Prints out some pokemon by their pokedex nr or their name

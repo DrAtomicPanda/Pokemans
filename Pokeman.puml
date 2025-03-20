@@ -1,0 +1,16 @@
+@startuml Pokemon
+class Pokemans{
++main()
++pokeInterface()
++game()
+-typing(HashSet<String>)
+-meetsthereq(HashSet<String>)
+}
+Pokemans ..> java.nio.file.Files
+Pokemans ..> java.nio.file.Paths
+Pokemans ..> java.util.TreeMap
+Pokemans ..> java.util.Hashset
+Pokemans ..> java.util.Scanner
+Pokemans ..> java.io.Files
+Pokemans ..> java.io.IOException
+@enduml

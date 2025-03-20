@@ -1,0 +1,14 @@
+game
+pokemon
+gen1
+single
+normal
+0ft<2ft
+0lbs<20lbs
+yes
+no
+purple
+basic and doesnt evolve
+leave
+
+This will print out ditto.

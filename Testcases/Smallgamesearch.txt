@@ -1,0 +1,8 @@
+game
+yes
+gen6
+dual
+fire
+water
+leave
+Will print out Volcanion
